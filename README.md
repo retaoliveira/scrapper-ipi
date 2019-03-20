@@ -46,4 +46,4 @@ scrapper(preformat_url=preformat_url, zipcode_list=belgium_zipcode.zipcode_list,
 ## Todo
 - add comments.
 - add configurable parameters (output folder, specific postal code ...)
-
+- modify the try / except blocks to only catch specific errors
